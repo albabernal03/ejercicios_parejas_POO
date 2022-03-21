@@ -7,5 +7,6 @@ class palindromo():
       print('True')
     else:
       print('False')
+print(palindromo.verificacion('palabra'))
     
     
