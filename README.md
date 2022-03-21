@@ -11,7 +11,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_par
 ***
 ## Integrantes
 
-1. [Alba] 
+1. [Alba](https://github.com/albabernal03) 
 2. [Carmen]
 
 
