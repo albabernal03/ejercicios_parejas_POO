@@ -73,6 +73,8 @@ print(palindromo_2.verificacion('palabra'))
 ```
 **UML:**
 
+<img width="207" alt="palindromo 2" src="https://user-images.githubusercontent.com/91721886/159341861-28562644-bf18-4fcb-a79e-5ad753471151.png">
+
 
 ***
 
