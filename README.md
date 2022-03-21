@@ -1,1 +1,19 @@
-# ejercicios_parejas_POO
+<h1 align="center">	Ejercicios por parejas</h1>
+
+<h2>Repositorio:</h2>
+
+Este es el link del [repositorio]
+
+***
+<h2>¿De qué trata esta tarea?</h2>
+
+
+***
+## Indice
+
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercico 3](#id3)
+4. [Ejercicio 4](#id4)
+
+***
