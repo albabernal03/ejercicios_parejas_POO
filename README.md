@@ -45,6 +45,7 @@ print(palindromo.verificacion('palabra'))
 ```
 
 **UML:**
+
 <img width="246" alt="palindromo" src="https://user-images.githubusercontent.com/91721886/159340627-0a7b8f68-c782-4e7a-905d-acfadaaac8a8.png">
 
 
