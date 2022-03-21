@@ -111,6 +111,9 @@ print(aa.y((z,1,'z')))
 
 **UML:**
 
+<img width="243" alt="puzzle" src="https://user-images.githubusercontent.com/91721886/159344658-ba068d62-04b8-4e65-a7ec-303d6a9b83c4.png">
+
+
 ***
 
 ## Ejercicio 4:
