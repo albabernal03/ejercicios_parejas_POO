@@ -1,4 +1,4 @@
-class palindromo():
+class palindromo_2():
   def __init__(self,palabra):
     self.palabra=palabra
     
@@ -10,4 +10,4 @@ class palindromo():
     else:
       print('False')
       
-print(palindromo.verificacion('palabra'))
+print(palindromo_2.verificacion('palabra'))
