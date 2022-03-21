@@ -25,3 +25,23 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_par
 4. [Ejercicio 4](#id4)
 
 ***
+
+## Ejercicio 1:
+
+
+***
+
+## Ejercicio 2:
+
+
+***
+
+## Ejercicio 3:
+
+
+***
+
+## Ejercicio 4:
+
+
+***
