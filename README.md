@@ -78,6 +78,36 @@ print(palindromo_2.verificacion('palabra'))
 
 ## Ejercicio 3:
 
+**Código:**
+
+```
+class A: 
+    def z(self): 
+        return self 
+ 
+    def y(self, t): 
+        return len(t) 
+ 
+a = A 
+y = a.z 
+print(y(a)) 
+aa = a() 
+print(aa is a()) 
+z = aa.y 
+print(z(())) 
+print(a().y((a,))) 
+print(A.y(aa, (a,z))) 
+print(aa.y((z,1,'z'))) 
+
+#El resultado obtenido es el siguiente:
+#False
+#0
+#1
+#2
+#3
+```
+
+**UML:**
 
 ***
 
