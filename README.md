@@ -132,6 +132,7 @@ class Logger:
 print(Logger.log())
 ```
 **UML:**
+
 <img width="195" alt="looger" src="https://user-images.githubusercontent.com/91721875/159471910-bf01c8d1-6365-4063-9058-173bffcef0ca.png">
 
 
