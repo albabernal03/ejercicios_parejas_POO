@@ -1,2 +1,3 @@
 class Logger:
-  
+  def log():
+    
