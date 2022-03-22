@@ -1,7 +1,7 @@
 from clases.palindromo import palindromo
 from clases.palindromo_2 import palindromo_2
 from clases.puzzle import puzzle
-
+from clases.logger import Logger
 
 
 
@@ -22,4 +22,6 @@ if __name__ == "__main__":
   print(a().y((a,))) 
   print(A.y(aa, (a,z))) 
   print(aa.y((z,1,'z'))) 
-    
+
+if __name__ == "__main__":
+  print(Logger.log())
