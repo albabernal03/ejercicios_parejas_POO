@@ -5,4 +5,6 @@ class Logger:
       if i == 1:
         print('Primera llamada')
       else:
+        print('{}ª llamada'.format(i))
+
       
