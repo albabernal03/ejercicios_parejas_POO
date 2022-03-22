@@ -6,5 +6,6 @@ class Logger:
         print('Primera llamada')
       else:
         print('{}ª llamada'.format(i))
+    print('--End log--:', '{}'.format(i), 'log(s)')
 
       
