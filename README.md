@@ -6,7 +6,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_par
 
 ***
 <h2>¿De qué trata esta tarea?</h2>
-
+La tarea consiste en elaborar el código y UML de cada uno de los ejercicios.
 
 ***
 ## Integrantes
@@ -117,6 +117,23 @@ print(aa.y((z,1,'z')))
 ***
 
 ## Ejercicio 4:
+
+**Código:**
+```
+class Logger:
+  def log():
+    print('--Start log--')
+    for i in range (1,6):
+      if i == 1:
+        print('Primera llamada')
+      else:
+        print('{}ª llamada'.format(i))
+    print('--End log--:', '{}'.format(i), 'log(s)')
+print(Logger.log())
+```
+**UML:**
+
+<img width="195" alt="looger" src="https://user-images.githubusercontent.com/91721875/159471910-bf01c8d1-6365-4063-9058-173bffcef0ca.png">
 
 
 ***
