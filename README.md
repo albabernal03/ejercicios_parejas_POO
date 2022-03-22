@@ -6,7 +6,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_par
 
 ***
 <h2>¿De qué trata esta tarea?</h2>
-
+La tarea consiste en elaborar el código y UML de cada uno de los ejercicios.
 
 ***
 ## Integrantes
